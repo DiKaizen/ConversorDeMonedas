@@ -13,7 +13,7 @@ import java.net.http.HttpResponse;
 public class ConsumoAPI {
 
     private static final String URL = "https://v6.exchangerate-api.com/v6/";
-    private static final String API = "5dcd2b5dddde8563be56c537";
+    private static final String API = "TU_APIKEY";
 
     public static double obtenerTasa(String primeraMoneda, String segundaMoneda) {
         try {
