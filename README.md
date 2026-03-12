@@ -43,13 +43,13 @@ Estructura del proyecto
 
 El proyecto está dividido en varias clases para organizar mejor el código:
 
-Principal
+Principal:
 Contiene el menú del programa y la interacción con el usuario.
 
-ConsumoAPI
+ConsumoAPI:
 Se encarga de conectarse con la API de tasas de cambio.
 
-Calculos
+Calculos:
 Realiza las operaciones matemáticas para convertir el monto.
 
 
